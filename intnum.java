@@ -1,6 +1,6 @@
 public class intnum {
     public static void main(String[] args) {
-        int num = 10;
+        int num = 5;
 
         System.out.println(num);
     }
