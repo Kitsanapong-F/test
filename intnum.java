@@ -1,7 +1,12 @@
 public class intnum {
     public static void main(String[] args) {
-        int num = 10;
+        int num = 11;
 
-        System.out.println(num);
+        if (num==10) {
+            System.out.println(num);
+        } else {
+            System.out.println("num not 10");
+        }
+        
     }
 }
